@@ -1,0 +1,23 @@
+body{
+	
+	font-family: 'Fjalla One', sans-serif, Lato;
+	margin-top: 300px;
+	color:white
+	
+	
+}
+
+#clock{
+	
+font-size: 200px; 
+text-align:center;	
+	
+} 
+
+#hex_color{
+font-size: 50px;
+text-align:center;
+	
+	
+	
+} 
